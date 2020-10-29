@@ -3,7 +3,7 @@
 
   ![SunHwan-Park's github stats](https://github-readme-stats.vercel.app/api?username=SunHwan-Park&count_private=true&show_icons=true&theme=cobalt)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunHwan-Park&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunHwan-Park&layout=compact&hide=jupyter%20notebook)
 
 </div>
 
